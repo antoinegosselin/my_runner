@@ -1,0 +1,7 @@
+how to make a map:
+first line: number of lines
+1: ground
+2: roc
+3: thorns
+W: Win
+You need to make only one line with 1, and only the line above this line will be checked for obstacles
